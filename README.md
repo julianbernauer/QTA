@@ -10,7 +10,10 @@ Data and Methods Unit
 MZES Mannheim (Germany) 
 
 ## Software to use: 
-http://quanteda.io/
+quanteda: http://quanteda.io/  
+Wordfish: http://www.wordfish.org/  
+Wordscores: http://www.tcd.ie/Political_Science/wordscores/  
+Will Lowe has written a number of programs, in particular the R package austin: http://conjugateprior.org/software/  
 
 ## Acknowledgements
 This repository has benefited from intro material for GitHub from Simon Munzert:
