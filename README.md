@@ -11,6 +11,7 @@ MZES Mannheim (Germany)
 
 ## Software to use: 
 quanteda: http://quanteda.io/  
+TopFish: https://github.com/codogogo/topfish
 Wordfish: http://www.wordfish.org/  
 Wordscores: http://www.tcd.ie/Political_Science/wordscores/  
 Will Lowe has written a number of programs, in particular the R package austin: http://conjugateprior.org/software/  
