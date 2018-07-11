@@ -1,5 +1,132 @@
 # wikipedia  
+de_afd.txt
+Wir wollen deshalb den Bundespräsidenten direkt durch das Volk wählen lassen. 0.5543618774839376
+- Die deutsche Sprache als Zentrum unserer Identität
+Die Nationalsprache ist das Herz einer Kulturnation. 0.5256944482583159
+Wir wollen dem Volk das Recht geben, den Abgeordneten auf die Finger zu schauen und vom Parlament beschlossene Gesetze zu ändern oder abzulehnen. 0.5236129864256192
+Ziel der AfD ist Selbsterhaltung, nicht Selbstzerstörung unseres Staates und Volkes. 0.517582035370908
+Das Volk soll auch die Möglichkeit erhalten, eigene Gesetzesinitiativen einzubringen und per Volksabstimmung zu beschließen. 0.5136235807348491
+- Das Volk muss wieder zum Souverän werden
+Heimlicher Souverän in Deutschland ist eine kleine, machtvolle politische Oligarchie, die sich in den bestehenden politischen Parteien ausgebildet hat. 0.5074258182020088
+Als zentrales Element deutscher Identität will die AfD die deutsche Sprache als Staatssprache im Grundgesetz festschreiben. 0.49459684700618056
+Nur hier kann Volkssouveränität gelebt werden, die Mutter und das Herzstück der Demokratie. 0.4858485402812671
+Die Allmacht der Parteien und deren Ausbeutung des Staates gefährden unsere Demokratie. 0.48018372690104677
+- Bekenntnis zur Kulturhoheit der Länder – keine „politisch korrekte“ Kunst und Kultur! 0.4779691527047074
+ 
+# in-domain
+de_afd.txt
+16a Grundgesetz wie auch nach geltendem internationalen Recht kein Schutzanspruch. 0.5550071829175616
+Die AfD wird nicht zulassen, dass Deutschland aus falsch verstandener Toleranz sein kulturelles Gesicht verliert. 0.5117337415135368
+Ohne Zustimmung des Volkes darf das Grundgesetz nicht geändert und kein bedeutsamer völkerrechtlicher Vertrag geschlossen werden. 0.4734771366696606
+Er verliert seine Eigenstaatlichkeit. 0.44496128732986295
+Wir wollen dem Volk das Recht geben, den Abgeordneten auf die Finger zu schauen und vom Parlament beschlossene Gesetze zu ändern oder abzulehnen. 0.4333867179407302
+In Europa war dies über die Europäische Wirtschaftsgemeinschaft erfolgreich gelungen. 0.4288021879722216
+- Trennung von Amt und Mandat und Kampf der Ämterpatronage
+Kanzler, Ministerpräsidenten, Minister und parlamentarische Staatssekretäre dürfen nicht mehr zugleich Abgeordnete sein. 0.4286187382960823
+Die AfD fordert Volksentscheide nach Schweizer Vorbild auch für Deutschland. 0.42203724121351627
+2 GG). 0.4110080277374968
+- Sicherheit der Bürger verbessern
+Auf Vorschlag der EU-Kommission hat das EU-Parlament in Reaktion auf die Terroranschläge von Paris im November 2015 die EU-Feuerwaffenrichtlinie geändert. 0.40856275387473306
 
+##################
+# wikipedia 
+de_cdu.txt
+Wer unsere demokratische Grundordnung bekämpft, das Existenzrecht
+Israels ablehnt, den inneren Frieden gefährdet oder gegen Recht und Gesetz
+verstößt, muss mit der ganzen Härte unseres Rechtsstaates rechnen. 0.5059151884438333
+Wir können und wollen Menschen aus allen
+Alters- und Bevölkerungsschichten für Politik begeistern und die Akzeptanz unserer freiheitlich-demokratischen Grundordnung stärken. 0.48009785294755497
+Die große Mehrheit
+ebenso wie ethnische und gesellschaftliche Minderheiten. 0.4699740681106799
+Unsere Dialekte, Traditionen und Gebräuche, so regional unterschiedlich sie
+sind, geben Deutschland ein sympathisches Gesicht und die Kontinuität der
+Überlieferung. 0.46681395247530616
+Wir müssen Flagge zeigen für Demokratie, Freiheit,
+Menschenrechte, Rechtsstaat und Europa. 0.46112449459270455
+Ein patriotisches
+Bekenntnis, das niemanden ausschließt und sich gegen niemanden richtet. 0.4584717996973597
+Wir wollen die Mitte unserer Gesellschaft und den Zusammenhalt in unserem Land stärken. 0.45828779544454457
+Sie verlangen unser mutiges und vorausschauendes politisches Handeln. 0.45644264276450713
+Deshalb dürfen wir nicht tatenlos zusehen, wenn unser
+Land von einigen Wenigen schlecht geredet und unter Wert verkauft wird: Von linken und rechten Populisten und radikalen Kräften, die unsere demokratischen
+Institutionen und unsere freie Presse diffamieren und versuchen, unser Land zu
+spalten. 0.45618921750241703
+Vor allem aber ist Kultur Brückenbauerin und Türöffnerin, Spiegel unseres Selbstverständnisses. 0.45499164946256176
+ 
+# in-domain
+de_cdu.txt
+Wer unsere demokratische Grundordnung bekämpft, das Existenzrecht
+Israels ablehnt, den inneren Frieden gefährdet oder gegen Recht und Gesetz
+verstößt, muss mit der ganzen Härte unseres Rechtsstaates rechnen. 0.5110204468673234
+Großbritannien hat sich entschieden, die Europäische Union zu verlassen. 0.4875941725941252
+Regierungsprogramm
+– 2021
+
+CDU/CSU
+
+Ein gutes Land in dieser Zeit
+
+Deutschland ist ein liebens- und lebenswertes Land, in dem man gut wohnen, arbeiten und leben kann:
+Der großen Mehrheit unserer Bürgerinnen und Bürger ging es noch nie so
+gut wie heute. 0.43282320619801046
+Die Zustimmung der Bürger zu Europa ist gestiegen. 0.43034361880000727
+Deutschland ist ein stabiles Land. 0.42951617537633746
+Wer sein ganzes Leben gearbeitet hat, soll im Alter davon leben
+können. 0.42897961028626114
+September beide Stimmen
+CDU und CSU. 0.42636958602847486
+Wir müssen Flagge zeigen für Demokratie, Freiheit,
+Menschenrechte, Rechtsstaat und Europa. 0.42100865068907994
+Kinderrechte ins Grundgesetz
+Schon jetzt stellt das Grundgesetz Ehe und Familie unter den besonderen
+Schutz des Staates. 0.3965545558151076
+Das Entgelt-Transparenz-Gesetz
+mit seiner abgestuften Regelung ist dafür ein gutes Beispiel. 0.3953591414270519
+ 
+################
+# wikipedia 
+de_spd.txt
+Mehr Gerechtigkeit und Respekt vor der
+Lebensleistung aller Menschen stärken unsere Demokratie. 0.47890008511306914
+So erhöhen wir das Vertrauen der Bürgerinnen und
+Bürger in unseren Rechtsstaat. 0.4726924757777807
+Unsere Demokratie lebt von Bürgerinnen und Bürgern, die sich für die Gesellschaft einsetzen. 0.47106813459197305
+Gerechtigkeit macht unser Land in vielerlei Hinsicht
+reicher. 0.47090954496159376
+Zugleich behalten wir die
+Kontrolle über die Einwanderung in unser Land. 0.470033392739721
+Junge Menschen sollen demokratisch mitentscheiden. 0.46138153196285375
+Wer im
+Internet kriminelle Parolen veröffentlicht und zu Gewalt gegen Jüdinnen und Juden, Ausländer
+und Ausländerinnen oder andere aufruft, muss konsequent zur Rechenschaft gezogen werden. 0.461020769275436
+Wir wollen durch ein klares
+Bekenntnis zur moralischen und historischen Verantwortung unseres Landes die Versöhnung
+zwischen Deutschland und Namibia vertiefen und die Lebenssituation der besonders
+betroffenen Volksgruppen verbessern. 0.45545914491463857
+Wir wollen eine Gesellschaft der Kultur und Kunst, die unser Leben in vielerlei Hinsicht
+bereichert und das Nachdenken über uns selbst befördert. 0.44985464387679075
+Wir werden uns insbesondere jeder Einschränkung der
+unabhängigen Justiz, der Versammlungs-, Meinungs- und Pressefreiheit entschieden
+entgegenstellen. 0.4485684750504078
 
 # in-domain
-
+de_spd.txt
+Nationale Alleingänge und Protektionismus versprechen
+keinen Erfolg. 0.45920431607879036
+Klar ist: Hält die türkische Regierung an ihrem konfrontativen Kurs fest, entfernt sie die Türkei von Europa. 0.4478452071150112
+Friedensprojekt Europa:
+Die europäische Idee vom Leben in Freiheit und Verantwortung sichert den Frieden in Europa. 0.43814999594820825
+Demokratisches und handlungsfähiges Europa:
+Die EU braucht starke Institutionen, allen voran ein starkes Europäisches Parlament und eine
+handlungsfähige Europäische Kommission. 0.43392363712667825
+Klar ist zugleich aber: Ein Land, das nicht mehr Mitglied der Europäischen Union
+sein will, kann auch nicht dessen Vorteile genießen. 0.43232039975171
+Deutschland ist ein stabiles Land. 0.42951617537633746
+Das Vereinigte Königreich will die Europäische Union verlassen. 0.4244378582131174
+Sollte die Türkei die Todesstrafe einführen, entscheidet sie sich offen gegen die Mitgliedschaft
+in der Europäischen Union! 0.41137664088901477
+Sie wird jedes Jahr von einer unabhängigen
+Expertenkommission festgelegt. 0.40537313845618084
+Kein Land kann sich
+wirtschaftlich, politisch oder gesellschaftlich entwickeln, wenn die Hälfte der Bevölkerung kein
+Mitspracherecht hat. 0.39619418280931495
