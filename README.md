@@ -13,9 +13,11 @@ MZES Mannheim (Germany)
 ## In collaboration with  
 
 **Federico Nanni**
+
 Paper project "Cross-Lingual Topical Scaling of Sparse Rhetoric in Political Text using Word Embeddings"
 
 **Alejandro Ecker**
+
 Paper project "'Negative Press Covfefe': Fishing for Populism on Twitter using Word Embeddings"
 
 ## Software to use: 
