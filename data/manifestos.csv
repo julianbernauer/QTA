@@ -1,2 +1,2 @@
-country, party, election
-Germany, AfD, 2017
+country, party_long, party_short, election
+Germany, Alternative für Deutschland, AfD, 2017
