@@ -1,2 +1,76 @@
-country, party_long, party_short, election
-Germany, Alternative für Deutschland, AfD, 2017
+country, party_long,party_engl, party_short, election, Programm auf polidoc
+Austria, Freiheitliche Partei Österreich, Freedom Party of Austria, FPÖ, 2008, ja
+Austria, Freiheitliche Partei Österreich, Freedom Party of Austria, FPÖ, 2013, ja
+Austria, Freiheitliche Partei Österreich, FPÖ, Freedom Party of Austria, 2017,ja
+Austria, Team Stronach, Team Stronach, TS, 2013, nein
+Austria, Bündnis Zukunf Österreich, Alliance for the Future of Austria, BZÖ, 2008, nein
+Austria, Bündnis Zukunf Österreich, Alliance for the Future of Austria, BZÖ, 2013, ja
+Austria, Liste Dr. Martin, Hans-Peter Martin's List, Martin, 2006, ja vermutlich für Europa 09
+Belgium, Vlaams Belang, Flemish Interest, VB, 2007, ja Vlaams Block
+Belgium, Vlaams Belang, Flemish Interest, VB, 2010, ja Vlaams Block
+Belgium, Vlaams Belang, Flemish Interest, VB, 2014, ja Vlaams Block
+Belgium, Libertair Direct Democratisch, Libertarian, Direct, Democratic, LDD, 2007, nein
+Belgium, Libertair Direct Democratisch, Libertarian, Direct, Democratic, LDD, 2010, nein
+Belgium, Libertair Direct Democratisch, Libertarian, Direct, Democratic, LDD, 2014, nein
+Belgium, Front National, National Front, FN, 2007, nein
+Belgium, Front National, National Front, FN, 2010, nein
+Denmark, Dansk Folkeparti, Danish People's Party, DF, 2007, ja
+Denmark, Dansk Folkeparti, Danish People's Party, DF, 2011, ja
+Denmark, Dansk Folkeparti, Danish People's Party, DF, 2015, ja
+Finland, Perussuomalaiset, Finns Party, PS, 2007, ja
+Finland, Perussuomalaiset, Finns Party, PS, 2011, ja
+Finland, Perussuomalaiset, Finns Party, PS, 2015, nein
+Finland, Sininen tulevaisuus, Blue Reform, SIN, nein Gründung 2017
+France, Front National, National Rally / Front, FN, 2007, ja
+France, Front National, National Rally / Front, FN, 2012, nein
+France, Front National, National Rally / Front, FN, 2017, ja
+France, La France insoumise, France Unbowed, FI, 2017, ja
+Germany, Alternative für Deutschland, Alternative for Germany, AfD, 2017, ja
+Germany, Alternative für Deutschland, Alternative for Germany, AfD, 2013, ja
+Germany, Die Linke, The Left (Germany), Linke, 2009, ja
+Germany, Die Linke, The Left (Germany), Linke, 2013, ja
+Germany, Die Linke, The Left (Germany), Linke, 2017, ja
+Iceland, Miðflokkurinn, Centre Party, M, 2017, nein
+Iceland, Flokkur fólksins, People's Party, FIF, 2017, nein
+Iceland, Hreyfingin, The Movement, B-H, 2009, nein
+Ireland, Sinn Féin, Sinn Féin, SF, 2007, ja
+Ireland, Sinn Féin, Sinn Féin, SF, 2011, ja
+Ireland, Sinn Féin, Sinn Féin, SF, 2016, ja
+Italy, Popolo della Libertà, The People of Freedom, PdL, 2008, ja
+Italy, Popolo della Libertà, The People of Freedom, PdL, 2013, ja
+Italy, Popolo della Libertà Forza Italia, The People of Freedom, PdL, 2018, ja als Forza Italia
+Italy, Lega Nord, Northern League, LN, 2008, nein
+Italy, Lega Nord, Northern League, LN, 2013, nein
+Italy, Lega Nord, Northern League, LN, 2018, nein
+Italy, Movimento 5 Stelle, Five Star Movement, M5S, 2013, ja
+Italy, Movimento 5 Stelle, Five Star Movement, M5S, 2018, ja
+Italy,  Fratelli d'Italia, Brothers of Italy, Fdl, 2013, nein
+Italy,  Fratelli d'Italia, Brothers of Italy, Fdl, 2018, nein
+Netherlands, Partij voor de Vrijheid, Party for Freedom, PVV, 2006, ja
+Netherlands, Partij voor de Vrijheid, Party for Freedom, PVV, 2010, ja
+Netherlands, Partij voor de Vrijheid, Party for Freedom, PVV, 2012, ja
+Netherlands, Partij voor de Vrijheid, Party for Freedom, PVV, 2017, ja
+Netherlands, Socialistische Partij, Socialist Party (Netherlands), SP, 2006, ja
+Netherlands, Socialistische Partij, Socialist Party (Netherlands), SP, 2010, ja
+Netherlands, Socialistische Partij, Socialist Party (Netherlands), SP, 2012, ja
+Netherlands, Socialistische Partij, Socialist Party (Netherlands), SP, 2017, ja
+Netherlands, Pim Fortuyn List, Fortuyn List, LPF, 2006, nein
+Norway, Progress Party Fremskrittspartiet, Progress Party (Norway), FrP, 2009, ja
+Norway, Progress Party Fremskrittspartiet, Progress Party (Norway), FrP, 2013, ja
+Norway, Progress Party Fremskrittspartiet, Progress Party (Norway), FrP, 2017, ja
+Portugal, , , ,
+Spain, Podemos, Podemos, Podemos, 2015, ja
+Spain, Podemos, Podemos, Podemos, 2016, ja
+Schweden, Sverigedemokraterna, Sweden Democrats, SD, 2006, ja
+Schweden, Sverigedemokraterna, Sweden Democrats, SD, 2010, nein
+Schweden, Sverigedemokraterna, Sweden Democrats, SD, 2014, ja
+Schweden, Sverigedemokraterna, Sweden Democrats, SD, 2018, nein
+Switzerland, Schweizerische Volkspartei, Swiss People's Party, 2007, ja
+Switzerland, Schweizerische Volkspartei, Swiss People's Party, 2011, ja
+Switzerland, Schweizerische Volkspartei, Swiss People's Party, 2015, ja
+Switzerland, Schweizerische Volkspartei, Swiss People's Party, 2018, nein
+United Kingdom, United Kingdom Independence Party, United Kingdom Independence Party, UKIP, 2010, ja
+United Kingdom, United Kingdom Independence Party, United Kingdom Independence Party, UKIP, 2015, ja
+United Kingdom, United Kingdom Independence Party, United Kingdom Independence Party, UKIP, 2017, ja
+
+
