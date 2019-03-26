@@ -1,0 +1,12 @@
+country,	country_short,	actor,	party_short,	name,	handle,	activity_recent
+Germany,	DE,	individual,	AfD,	Alice Weidel,	"@Alice_Weidel",	yes
+Germany,	DE,	party,	AfD,	AfD,	"@AfD",	
+Germany,	DE,	individual,	CDU,	Angela Merkel,	"@AngelaMerkelCDU",	no
+Germany,	DE,	party,	CDU	,,,		
+Italy,	IT,					,,,,
+France,	FR,	party, FN	,			,,
+United Kingdom,	UK,		party, UKIP, ,, 
+Spain,	ES,		Podemos,	,,,		
+Austria,	AT	,,,,,				
+Ireland,	IE	,,,,,				
+Switzerland,	CH	,,,,, 				
