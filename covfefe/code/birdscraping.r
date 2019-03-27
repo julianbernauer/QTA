@@ -2,6 +2,7 @@
 
 library(rtweet)
 library(quanteda)
+library(tidyverse)
 
 # extracting the Tweets of three politicians 
 tmls_pops <- get_timelines(c("alice_weidel", "HCStracheFP", "NatalieRickli"), n = 1000)
