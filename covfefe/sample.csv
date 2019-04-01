@@ -1,7 +1,7 @@
 country,	country_short,	actor,	party_short,	name,	handle,	activity_recent
 
 Austria,	AT	,individual, FPÖ, HC Strache, @HCStracheFP, yes	
-Austria,	AT,  party, FPÖ-TV, @FPOE_TV, no
+Austria,	AT,  party, FPÖ-TV, , @FPOE_TV, no
 Austria,	AT	,individual, SPÖ, Pamela Rendi-Wagner, @rendiwagner, yes
 Austria,	AT,  party, SPÖ, SPÖ, @SPOE_at, yes
 Austria,	AT,  individual, GrüneÖ, Werner Kogler, @WKogler, yes
