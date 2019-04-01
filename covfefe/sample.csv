@@ -6,16 +6,16 @@ Austria,	AT	,individual, SPÖ, Pamela Rendi-Wagner, @rendiwagner, yes
 Austria,	AT,  party, SPÖ, SPÖ, @SPOE_at, yes
 Austria,	AT,  individual, GrüneÖ, Werner Kogler, @WKogler, yes
 Austria,	AT,  party, GrüneÖ, Die Grünen, @Gruene_Austria, yes
-Austria,	AT,  individual, KPÖ, , , ,
+Austria,	AT,  individual, KPÖ, , , 
 Austria,	AT,  party, KPÖ, KPÖ - European Left, @KPOE_EL, yes
 Austria,	AT,   individual, ÖVP, Sebastian Kurz, @sebastiankurz, yes
 Austria,	AT,   party, ÖVP, Volkspartei, @volkspartei, yes
-Austria,  AT,   individual, TS,,,,
+Austria,  AT,   individual, TS,,,
 Austria,	AT,   party, TS, Team Stronach, @TeamStronach, no
-Austria,	AT,  individual, BZÖ, , , ,
-Austria,	AT,  party, BZÖ, ,,,,
-Austria,	AT,  individual, Martin, , , ,
-Austria,	AT,  party, Martin , , , ,
+Austria,	AT,  individual, BZÖ, , , 
+Austria,	AT,  party, BZÖ, ,,,
+Austria,	AT,  individual, Martin, , , 
+Austria,	AT,  party, Martin , , , 
 France,	FR,	individual, FN, Marine Le Pen, @MLP_officiel, yes
 France,	FR,	party, FN, Rassemblement National,@RNational_off, yes
 France,	FR,	individual, FI, Jean-Luc Mélenchon, @JLMelenchon, yes
