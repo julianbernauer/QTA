@@ -1,12 +1,101 @@
 country,	country_short,	actor,	party_short,	name,	handle,	activity_recent
+
+Austria,	AT	,individual, FPÖ, HC Strache, @HCStracheFP, yes	
+Austria,	AT,  party, FPÖ-TV, @FPOE_TV, no
+Austria,	AT	,individual, SPÖ, Pamela Rendi-Wagner, @rendiwagner, yes
+Austria,	AT,  party, SPÖ, SPÖ, @SPOE_at, yes
+Austria,	AT,  individual, GrüneÖ, Werner Kogler, @WKogler ‏, yes
+Austria,	AT,  party, GrüneÖ, Die Grünen, @Gruene_Austria, yes
+Austria,	AT,  individual, KPÖ, , , ,
+Austria,	AT,  party, KPÖ, KPÖ - European Left, @KPOE_EL, yes
+Austria,	AT,   individual, ÖVP, Sebastian Kurz, @sebastiankurz, yes
+Austria,	AT,   party, ÖVP, Volkspartei, @volkspartei, yes
+Austria,  AT,   individual, TS,,,,
+Austria,	AT,   party, TS, Team Stronach, @TeamStronach, no
+Austria,	AT,  individual, BZÖ, , , ,
+Austria,	AT,  party, BZÖ, ,,,,
+Austria,	AT,  individual, Martin, , , ,
+Austria,	AT,  party, Martin , , , ,
+France,	FR,	individual, FN, Marine Le Pen, @MLP_officiel, yes
+France,	FR,	party, FN, Rassemblement National,@RNational_off, yes
+France,	FR,	individual, FI, Jean-Luc Mélenchon, @JLMelenchon, yes
+France,	FR,	party, FI, La France insoumise, @FranceInsoumise, yes
+France,	FR,	individual, PS, Olivier Faure, @faureolivier, yes
+France,	FR,	party, PS, Parti socialiste, @partisocialiste, yes
+France,	FR,	individual, REM , Emmanuel Macron, @EmmanuelMacron, yes
+France,	FR,	party,  REM, Députés LaREM, @LaREM_AN , yes
+France,	FR,	individual, LR, Laurent Wauquiez, @laurentwauquiez, yes
+France,	FR,	party, LR, les Républicains, @lesRepublicains, yes
 Germany,	DE,	individual,	AfD,	Alice Weidel,	@Alice_Weidel,	yes
-Germany,	DE,	party,	AfD,	AfD,	@AfD,	
-Germany,	DE,	individual,	CDU,	Angela Merkel,	@AngelaMerkelCDU,	no
-Germany,	DE,	party,	CDU	,,,		
-Italy,	IT,					,,,,
-France,	FR,	party, FN	,			,,
-United Kingdom,	UK,		party, UKIP, ,, 
-Spain,	ES,		Podemos,	,,,		
-Austria,	AT	,,,,,				
-Ireland,	IE	,,,,,				
-Switzerland,	CH	,,,,, 				
+Germany,	DE,	party,	AfD,	AfD,	@AfD, yes	
+Germany,	DE,	individual,	CDU,	Angela Merkel,	@AngelaMerkelCDU, no
+Germany,	DE,	party,	CDU, CDU Deutschlands, @CDU,	yes
+Germany,	DE,	individual, GrüneDt, Annalena Baerbock, @ABaerbock, yes
+Germany,	DE,	party, GrüneDt, BÜNDNIS90/DIE GRÜNEN, @Die_Gruenen, yes
+Germany,	DE,	individual,  CSU, Markus Söder, @Markus_Soeder, yes
+Germany,	DE,	party, CSU, CSU, @CSU, yes
+Germany,	DE,	individual, FDP, Christian Lindner, @c_lindner, yes
+Germany,	DE,	party, FDP, FDP, @fdp, yes
+Germany,	DE,	individual, SPD, Andrea Nahles, @AndreaNahlesSPD, yes
+Germany,	DE,	party,  SPD, SPD Parteivorstand, @spdde, yes
+Germany,	DE,	individual, Linke, Katja Kipping, @katjakipping, yes
+Germany,	DE,	party,  Linke, DIE LINKE, @dieLinke, yes
+Italy,	IT,	individual, PdL, Silvio Berlusconi, @berlusconi, yes 
+Italy,	IT,	party, PdL, Forza Italia, @forza_italia, yes
+Italy,	IT,	individual, LN, Matteo Salvini, @matteosalvinimi, yes
+Italy,	IT,	party, LN, UfficioPressLegaNord, @LegaParlamento , no
+Italy,	IT,	individual, M5S, Luigi Di Maio, @luigidimaio, yes
+Italy,	IT,	party, M5S, Movimento 5, @Mov5Stelle, yes
+Italy,	IT,	individual, Fdl, Giorgia Meloni, @GiorgiaMeloni, yes
+Italy,	IT,	party, Fdl, Fratelli d'Italia, @FratellidItaIia, yes
+Italy,	IT,	individual, PaP, Giorgio Cremaschi, @CremaschiG, yes
+Italy,	IT,	party, PaP, Potere al Popolo, @potere_alpopolo, yes
+Italy,	IT,	individual, PD, Nicola Zingaretti, @nzingaretti, yes
+Italy,	IT,	party, PD, Partito Democratico, @pdnetwork, yes
+Italy,	IT,	individual, LeU, Pietro Grasso, @PietroGrasso, yes
+Italy,	IT,	party, LeU, LIBERI e UGUALI, @liberi_uguali, no
+Italy,	IT,	individual, +E, Emma Bonino, @emmabonino, yes
+Italy,	IT,	party, +E, Più Europa, @Piu_Europa, yes
+Italy,	IT,	individual, CPI, Simone Di Stefano, @distefanoTW, yes 
+Italy,	IT,	party, CPI, CasaPound Italia, @CasaPoundItalia, yes
+Ireland,IE, 	individual, SF, Mary Lou McDonald, @MaryLouMcDonald, yes
+Ireland,IE,     party, SF, Sinn Féin, @sinnfeinireland, yes 
+Ireland,IE, 	individual, GPNI, Clare Bailey, @ClareBaileyGPNI , yes
+Ireland,IE,     party, GPNI, Green Party Ireland, @greenparty_ie, yes 
+Ireland,IE,     party, GPNI, Green Party NI, @GreenPartyNI, yes
+Ireland,IE, 	individual, FG, Leo Varadkar, @LeoVaradkar, yes
+Ireland,IE,     party, FG, Fine Gael, @FineGael, yes
+Ireland,IE, 	individual, FF, Micheál Martin, @MichealMartinTD, yes
+Ireland,IE,     party, FF, Fianna Fáil, @fiannafailparty, yes
+Ireland,IE, 	individual, Labour, Brendan Howlin, @BrendanHowlin, yes
+Ireland,IE,     party, Labour, The Labour Party, @labour, yes
+Spain,	ES, individual, Podemos, Pablo Iglesias Turrón,	@PABLO_IGLESlAS, no
+Spain,	ES, party, Podemos, PODEMOS, @ahorapodemos, yes 
+Spain,	ES, individual, PP, Pablo Casado Blanco, @pablocasado_, yes 
+Spain,	ES, party, PP, Partido Popular, @populares, yes
+Spain,	ES, individual, PSOE, Pedro Sánchez, @sanchezcastejon, yes
+Spain,	ES, party, PSOE, PSOE, @PSOE, yes
+Spain,	ES, individual, Cs, Albert Rivera, @Albert_Rivera, yes
+Spain,	ES, party, Cs, Ciudadanos, @CiudadanosCs, yes
+Switzerland,	CH	,individual,SVP,,, 
+Switzerland,	CH,      party, SVP, SVP SChweiz, @SVPch, yes
+Switzerland,	CH	,individual, CVP, Gerhard Pfister, @gerhardpfister, yes
+Switzerland,	CH,      party, CVP, CVP PDC PPD PCD, @CVP_PDC, yes
+Switzerland,	CH	,individual, FDP, Petra Gössi, @PetraGoessi , yes
+Switzerland,	CH,      party, FDP, FDP Schweiz, @FDP_Liberalen, yes
+Switzerland,	CH	,individual, SP, Christian Levrat, @ChristianLevrat, yes
+Switzerland,	CH,      party, SP,  SP, SP Schweiz, @spschweiz, yes
+Switzerland,	CH	,individual, GPS, Regula Rytz, @RegulaRytz, yes
+Switzerland,	CH,      party, GPS, GRÜNE Schweiz, @GrueneCH, yes
+Switzerland,	CH	,individual, glp, Jürg Grossen, @Juerg_Grossen, yes
+Switzerland,	CH,      party, glp, Grünliberale Schweiz, @grunliberale, yes
+United Kingdom,	UK,	individuals, UKIP, Gerard Batten, @GerardBattenMEP, yes
+United Kingdom,	UK,	party, UKIP, UKIP, @UKIP, yes 
+United Kingdom,	UK,	individuals, C, Theresa May, @theresa_may, yes
+United Kingdom,	UK,	party, C, Conservatives, @Conservatives, yes
+United Kingdom,	UK,	individuals, Labour, Jeremy Corbyn, @jeremycorbyn, yes
+United Kingdom,	UK,	party, Labour, The Labour Party, @UKLabour, yes
+United Kingdom,	UK,	individuals, LipDem, Vince Cable, @vincecable, yes
+United Kingdom,	UK,	party, LipDem, Liberal Democrats, @LibDems, yes
+United Kingdom,	UK,	individuals, SNP, Nicola Sturgeon, @NicolaSturgeon, yes
+United Kingdom,	UK,	party, SNP, The SNP, @theSNP, yes
