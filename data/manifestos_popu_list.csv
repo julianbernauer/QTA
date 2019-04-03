@@ -1,4 +1,4 @@
-country, party_long,party_engl, party_short, election, polidoc_exists, cmp_polidoc, popu_list, hcs18
+country, party_long,party_engl, party_short, election, polidoc_exists, cmp_polidoc, popu_list, hcs18, leader
 Austria, Freiheitliche Partei Österreich, Freedom Party of Austria, FPÖ, 2008, ja, 42420.000.2008.1.1, 1, 
 Austria, Freiheitliche Partei Österreich, Freedom Party of Austria, FPÖ, 2013, ja,42420.000.2013.1.1, 1,
 Austria, Freiheitliche Partei Österreich, Freedom Party of Austria, FPÖ, 2017,ja, 42420.000.2017.1.1, 1,
