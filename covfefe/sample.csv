@@ -15,6 +15,10 @@ Austria,AT,individual,BZÖ,,,
 Austria,AT,party,BZÖ,,,
 Austria,AT,individual,Martin,,,
 Austria,AT,party,Martin,,,
+Austria, AT, individual, NEOs, Beate Meinl-Reisinger, @BMeinl, yes
+Austria, AT, party, NEOs, Das neue Österreich, @neos_eu, yes
+Austria, AT, individual, JETZT, Maria Stern, @Maria__Stern, yes
+Austria, AT, party, JETZT, Oberster Rat der Liste Pilz-Wähler, @RatPilz, no
 France,FR,individual,FN,MarineLePen,@MLP_officiel,yes
 France,FR,party,FN,RassemblementNational,@RNational_off,yes
 France,FR,individual,FI,Jean-LucMélenchon,@JLMelenchon,yes
@@ -25,6 +29,17 @@ France,FR,individual,REM,EmmanuelMacron,@EmmanuelMacron,yes
 France,FR,party,REM,DéputésLaREM,@LaREM_AN,yes
 France,FR,individual,LR,LaurentWauquiez,@laurentwauquiez,yes
 France,FR,party,LR,lesRépublicains,@lesRepublicains,yes
+France, FR, individual, MODEM , Francois Bayrou, @bayrou, yes
+France, FR, party, MODEM, Mouvement démocrate, @MoDem, yes ‏
+France, FR, individual, LCRUDII, Franck Riester, @franckriester, yes
+France, FR, party, UDI, UDI64, @UDI64, yes
+France, FR, party, Agir, agir_ la droite constructive, @agir_officiel, yes
+France, FR, party, LR, les Républicains, @lesRepublicains, yes
+France, FR, individual, NG, Benoît Hamon, @benoithamon, yes
+France, FR, party, NG, N.GaucheSocialiste, @NvelleGS, yes
+France, FR, individual, GDR, André Chassaigne, @AndreChassaigne, yes
+party cooporation, GDR, Gauche démocrate et républicaine, 
+France, FR, party, PCF, @PCF, yes 
 Germany,DE,individual,AfD,AliceWeidel,@Alice_Weidel,yes
 Germany,DE,party,AfD,AfD,@AfD,yes
 Germany,DE,individual,CDU,AngelaMerkel,@AngelaMerkelCDU,no
@@ -39,8 +54,8 @@ Germany,DE,individual,SPD,AndreaNahles,@AndreaNahlesSPD,yes
 Germany,DE,party,SPD,SPDParteivorstand,@spdde,yes
 Germany,DE,individual,Linke,KatjaKipping,@katjakipping,yes
 Germany,DE,party,Linke,DIELINKE,@dieLinke,yes
-Italy,IT,individual,PdL,SilvioBerlusconi,@berlusconi,yes
-Italy,IT,party,PdL,ForzaItalia,@forza_italia,yes
+Italy,IT,individual,FI,SilvioBerlusconi,@berlusconi,yes
+Italy,IT,party,FI,ForzaItalia,@forza_italia,yes
 Italy,IT,individual,LN,MatteoSalvini,@matteosalvinimi,yes
 Italy,IT,party,LN,UfficioPressLegaNord,@LegaParlamento,no
 Italy,IT,individual,M5S,LuigiDiMaio,@luigidimaio,yes
@@ -68,14 +83,46 @@ Ireland,IE,individual,FF,MicheálMartin,@MichealMartinTD,yes
 Ireland,IE,party,FF,FiannaFáil,@fiannafailparty,yes
 Ireland,IE,individual,Labour,BrendanHowlin,@BrendanHowlin,yes
 Ireland,IE,party,Labour,TheLabourParty,@labour,yes
-Spain,ES,individual,Podemos,PabloIglesiasTurrón,@PABLO_IGLESlAS,no
-Spain,ES,party,Podemos,PODEMOS,@ahorapodemos,yes
+Ireland, IE, individual, PBP, Eamonn McCann, @eamonnmccannpbp, yes
+Ireland, IE, party, PBP, People Before Profit, @pb4p, yes
+Ireland, IE, individual, I4C, Micheál Kelliher, @MichealKelliher, yes
+Ireland, IE, party, I4C, Independents4Change, @independents4_C, no
+Ireland, IE, individual, Greens, Eamon Ryan, @EamonRyan, yes
+Ireland, IE, party, Greens, Green Party Ireland, @greenparty_ie, yes
+Ireland, IE, individual, SD, Catherine Murphy, @CathMurphyTD, yes
+Ireland, IE, party, SD, Social Democrats, @SocDems, yes
+Spain,ES,individual,UP, PabloIglesiasTurrón,@PABLO_IGLESlAS,no
+Spain,ES,party, UP,PODEMOS,@ahorapodemos,yes
 Spain,ES,individual,PP,PabloCasadoBlanco,@pablocasado_,yes
 Spain,ES,party,PP,PartidoPopular,@populares,yes
 Spain,ES,individual,PSOE,PedroSánchez,@sanchezcastejon,yes
 Spain,ES,party,PSOE,PSOE,@PSOE,yes
 Spain,ES,individual,Cs,AlbertRivera,@Albert_Rivera,yes
 Spain,ES,party,Cs,Ciudadanos,@CiudadanosCs,yes
+Spain, ES, individual, ECP, Ada Colau, @AdaColau, yes
+Spain, ES, party, ECP, En Comú Podem, @EnComu_Podem, yes
+Spain, ES, individual, EM, Luís Villares, @VillaresLuis, yes
+Spain, ES, party, EM, En Marea, @En_Marea, yes
+Spain, ES, individual, EAJ/PNV, Andoni Ortuzar, @andoniortuzar, yes
+Spain, ES, party, EAJ/PNV, EAJ-PNV, @eajpnv, yes
+Spain, ES, individual, Compromís, Enric Morera, @enricmorera, yes
+Spain, ES, party, Compromís, @compromis, yes
+Spain, ES, individual, NCa, Román Rodríguez Rodríguez, , no
+Spain, ES, party, NCa, Nueva Canarias, @Nueva_Canarias, yes
+Spain, ES, individuel, PDeCAT-JuntsxCat, David Bonvehí, @davidbonvehi, yes
+﻿Spain, ES, party, PDeCAT–JuntsxCat, Partit Demòcrata, @Pdemocratacat, yes
+Spain, ES, individual, Cs, Albert Rivera, @Albert_Rivera, yes
+Spain, ES, party, Cs, Ciudadanos, @CiudadanosCs, yes
+Spain, ES, individual, ERC, Oriol Junqueras, @junqueras, yes
+Spain, ES, party, ERC, Esquerra Republicana, @Esquerra_ERC, yes
+Spain, ES, individual, EH Bildu, Arnaldo Otegi, @ArnaldoOtegi, yes
+Spain, ES, party, EH Bildu, EH Bildu, @ehbildu, yes
+Spain, ES, individual, UPN, Javier Esparza, @JavierJesparza, yes
+﻿Spain, ES, pary, UPN, Navarra Suma, @navarra_suma, yes
+Spain, ES, individual, FAC, Carmen Moriyón, @carmenmoriyon, yes
+Spain, ES, party, FAC, Foro, @ForoAsturias, yes 
+Spain, ES, individual, CC, Ana Oramas, @anioramas, yes
+Spain, ES, party, CC, Coalición Canaria, @coalicion, yes
 Switzerland,CH,individual,SVP,,,
 Switzerland,CH,party,SVP,SVPSChweiz,@SVPch,yes
 Switzerland,CH,individual,CVP,GerhardPfister,@gerhardpfister,yes
@@ -88,6 +135,16 @@ Switzerland,CH,individual,GPS,RegulaRytz,@RegulaRytz,yes
 Switzerland,CH,party,GPS,GRÜNESchweiz,@GrueneCH,yes
 Switzerland,CH,individual,glp,JürgGrossen,@Juerg_Grossen,yes
 Switzerland,CH,party,glp,GrünliberaleSchweiz,@grunliberale,yes
+Switzerland, CH, individual, BDP, Martin Landolt, @LandoltMartin, yes
+Switzerland, CH, party, BDP, BDP Schweiz, @BDPSchweiz, yes 
+Switzerland, CH, individual, EVP, Marianne Streiff, @MarianneStreiff, yes
+Switzerland, CH, party, EVP, EVP Schweiz, @evppev, yes
+Switzerland, CH, individual, Lega, Attilio Bignasca, , no
+Switzerland, CH, party, LEGA, LEGA dei Ticinesi, @LEGAdeiTicinesi, no 
+Switzerland, CH, individual, MCG,  Mauro Poggia, @MauroPoggia, no
+Switzerland, CH, party, , ,no 
+Switzerland, CH, individual, PdA, Gavriel Pinson, ,no
+Switzerland, CH, party, Partei der Arbeit, , no
 UnitedKingdom,UK,individuals,UKIP,GerardBatten,@GerardBattenMEP,yes
 UnitedKingdom,UK,party,UKIP,UKIP,@UKIP,yes
 UnitedKingdom,UK,individuals,C,TheresaMay,@theresa_may,yes
@@ -98,3 +155,13 @@ UnitedKingdom,UK,individuals,LipDem,VinceCable,@vincecable,yes
 UnitedKingdom,UK,party,LipDem,LiberalDemocrats,@LibDems,yes
 UnitedKingdom,UK,individuals,SNP,NicolaSturgeon,@NicolaSturgeon,yes
 UnitedKingdom,UK,party,SNP,TheSNP,@theSNP,yes
+UnitedKingdom, UK, individual, DUP, Arlene Foster, @DUPleader, yes
+UnitedKingdom, UK, party, DUP, DUP, @duponline, yes
+UnitedKingdom, UK, individual, TIG, Heidi Allen MP, @heidiallen75, yes
+UnitedKingdom, UK, party, The Independent Group, @TheIndGroup, yes
+UnitedKingdom, UK, individual, SF, Mary Lou McDonald, @MaryLouMcDonald, yes
+UnitedKingdom, UK, party, Sinn Féin, @sinnfeinireland, yes
+UnitedKingdom, UK, individual, PC, Adam Price, @Adamprice, yes
+UnitedKingdom, UK, party, Plaid Cymru, @Plaid_Cymru, yes
+UnitedKingdom, UK, individual, GPEW, Jonathan Bartley, @jon_bartley, yes
+UnitedKingdom, UK, party, Green Party of England and Wales, @TheGreenParty, yes
