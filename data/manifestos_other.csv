@@ -1,2 +1,50 @@
 country, party_long, party_engl, party_short, election, polidoc_exists, cmp_polidoc, popu_list, hcs18
 Germany, Christlich Demokratische Union, Christian Democratic Union, CDU, 2013, 1, 41521.000.2013.1.1 , 0, 0  
+
+
+Austria, Das Neue Österreich und Liberales Forum, The New Austria and Liberal Forum, NEOs, 2013, 1, 42450.000.2013.1.1, 0, NA
+Austria, Das Neue Österreich und Liberales Forum, The New Austria and Liberal Forum, NEOs, 2017, 1, 42450.000.2017.1.1, 0, NA
+Austria, Sozialdemokratische Partei Österreichs, Austrian Social Democratic Party, SPÖ, 2008, 1, 42320.000.2008.1.1, 0, 0.1
+Austria, Sozialdemokratische Partei Österreichs, Austrian Social Democratic Party, SPÖ, 2013, 1, 42320.000.2013.1.1, 0, 0.1
+Austria, Sozialdemokratische Partei Österreichs, Austrian Social Democratic Party, SPÖ, 2017, 1, 42320.000.2017.1.1, 0, 0.1
+Austria, Die Grüne Alternative,Green Alternative, GA, 2008, 1, 42110.000.2008.1.1, 0, 0.1
+Austria, Die Grüne Alternative,Green Alternative, GA, 2013, 1, 42110.000.2013.1.1, 0, 0.1
+Austria, Die Grüne Alternative,Green Alternative, GA, 2017, 1, 42110.000.2017.1.1, 0, 0.1
+Austria, Österreichische Volkspartei, Austrian Peoples Party, ÖVP, 2008, 1, 42520.000.2008.1.1, 0, 0
+Austria, Österreichische Volkspartei, Austrian Peoples Party, ÖVP, 2013, 1, 42520.000.2013.1.1, 0, 0
+Austria, Österreichische Volkspartei, Austrian Peoples Party, ÖVP, 2017, 1, 42520.000.2017.1.1, 0, 0
+Austria, Liberales Forum, Liberal Forum, LIF, 2008, 1, 42421.000.2008.1.1, 0, NA
+Austria,  Liste Peter Pilz, , JETZT, 2017, 0, NA, 0, NA
+
+Belgum, Christen Democratisch en Vlaams, Christian Democratic and Flemish, CD&V,2007, 1, 21523.000.2007.1.1, 0, 0.05 (note: hcs18 ist für französische Abspaltung der Partei cdh)
+Belgum, Christen Democratisch en Vlaams, Christian Democratic and Flemish, CD&V,2010, 1, 21523.000.2010.1.1, 0, 0.05 (note: hcs18 ist für französische Abspaltung der Partei cdh)
+Belgum, Christen Democratisch en Vlaams, Christian Democratic and Flemish, CD&V,2014, 1, 21523.000.2014.1.1, 0, 0.05 (note: hcs18 ist für französische Abspaltung der Partei cdh)
+Belgum, Centre Démocrate Humaniste, Humanist Democratic Centre, cdh, 2007, 1, 21524.000.2007.1.1, 0, 0.05
+Belgum, Centre Démocrate Humaniste, Humanist Democratic Centre, cdh, 2010, 0, 21524.000.2010.1.1, 0, 0.05
+Belgum, Centre Démocrate Humaniste, Humanist Democratic Centre, cdh, 2014, 1, 21524.000.2014.1.1, 0, 0.05
+Belgum, Nieuw-Vlaamse Alliantie, New-Flemish Alliance, N-VA, 2007, 1, 21916.000.2007.1.1, 0, NA
+Belgum, Nieuw-Vlaamse Alliantie, New-Flemish Alliance, N-VA, 2010, 1, 21916.000.2010.1.1, 0, NA
+Belgum, Nieuw-Vlaamse Alliantie, New-Flemish Alliance, N-VA, 2014, 0, 21916.000.2014.1.1, 0, NA
+Belgum, Mouvement Réformateur, Reformist Movement, MA, 2007, 1, 21426.000.2007.1.1, 0, 0
+Belgum, Mouvement Réformateur, Reformist Movement, MA, 2010, 1, 21426.000.2010.1.1, 0, 0
+Belgum, Mouvement Réformateur, Reformist Movement, MA, 2014, 1, 21426.000.2014.1.1, 0, 0
+Belgum, Socialistische Partij, Socialist Party, PS, 2007, 1, 21321.000.2007.1.1, 0, 0.15
+Belgum, Socialistische Partij, Socialist Party, PS, 2010, 1, 21321.000.2010.1.1, 0, 0.15
+Belgum, Socialistische Partij, Socialist Party, PS, 2014, 0, 21321.000.2007.1.1, 0, 0.15
+Belgum, Open Vlaamse Liberalen en Democraten, Open Flemish Liberals and Democrats, Open VLD, 2007, 1, 21421.000.2007.1.1, 0, NA
+Belgum, Open Vlaamse Liberalen en Democraten, Open Flemish Liberals and Democrats, Open VLD, 2010, 1, 21421.000.2010.1.1, 0, NA
+Belgum, Open Vlaamse Liberalen en Democraten, Open Flemish Liberals and Democrats, Open VLD, 2014, 1, 21421.000.2014.1.1, 0, NA
+Belgum, Socialistische Partij Anders, Socialist Party Differently, sp-a, 2007, 0,  21221.000.2007.1.1, 0, NA                    polidoc: SPIRIT???? toghtr with sp-a merged with groen 2009
+Belgum, Socialistische Partij Anders, Socialist Party Differently, sp-a, 2010, 1, 21221.000.2007.1.1, 0, NA  
+Belgum, Socialistische Partij Anders, Socialist Party Differently, sp-a, 2014, 1, 21221.000.2007.1.1, 0, NA  
+Belgum, Sociaal-Liberale Partij, Social Liberal Party, SPIRIT, 2007, ?, s. sp-a, 0, NA                                          only 2007/ code mistake sp-a!
+Belgum, Écologistes Confédérés pour lOrganisation de Luttes Originales, Confederated ecologists for the organisation of original struggles, Ecolo, 2007, 1, 21111.000.2007.1.1, 0, 0
+Belgum, Écologistes Confédérés pour lOrganisation de Luttes Originales, Confederated ecologists for the organisation of original struggles, Ecolo, 2010, 1, 21111.000.2010.1.1, 0, 0
+Belgum, Écologistes Confédérés pour lOrganisation de Luttes Originales, Confederated ecologists for the organisation of original struggles, Ecolo, 2014, 1, 21111.000.2014.1.1, 0, 0
+Belgum, Groen!,Green!, Groen, 2007, 1, 21112.000.2007.1.1, 0, NA
+Belgum, Groen!,Green!, Groen, 2010, 1, 21112.000.2010.1.1, 0, NA
+Belgum, Groen!,Green!, Groen, 2014, 1, 21112.000.2014.1.1, 0, NA
+Belgum, Parti populaire, People's Party, PP, 2010, 0, ?, 0, 0.55
+Belgum, Parti populaire, People's Party, PP, 2014, 0, ?, 0, 0.55
+Belgum, Démocrate Fédéraliste Indépendant, Democratic Federalist Independent, DéFI/ FDF, 2014, 1, 21912.000.2014.1.1, 0, 0        called polidoc: Front Démocratique des Bruxellois Francophones keine txt.
+Belgum, Partij van de Arbeid, Workers' Party of Belgium, PVDA, 2014, 0, ?, 0, NA
