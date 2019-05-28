@@ -1,7 +1,4 @@
-country, party_long, party_engl, party_short, election, polidoc_exists, cmp_polidoc, popu_list, hcs18
-Germany, Christlich Demokratische Union, Christian Democratic Union, CDU, 2013, 1, 41521.000.2013.1.1 , 0, 0  
-
-
+country, party_long, party_engl, party_short, election, polidoc_exists, cmp_polidoc, popu_list, hcs18, notes
 Austria, Das Neue Österreich und Liberales Forum, The New Austria and Liberal Forum, NEOs, 2013, 1, 42450.000.2013.1.1, 0, NA
 Austria, Das Neue Österreich und Liberales Forum, The New Austria and Liberal Forum, NEOs, 2017, 1, 42450.000.2017.1.1, 0, NA
 Austria, Sozialdemokratische Partei Österreichs, Austrian Social Democratic Party, SPÖ, 2008, 1, 42320.000.2008.1.1, 0, 0.1
@@ -15,10 +12,9 @@ Austria, Österreichische Volkspartei, Austrian Peoples Party, ÖVP, 2013, 1, 42
 Austria, Österreichische Volkspartei, Austrian Peoples Party, ÖVP, 2017, 1, 42520.000.2017.1.1, 0, 0
 Austria, Liberales Forum, Liberal Forum, LIF, 2008, 1, 42421.000.2008.1.1, 0, NA
 Austria,  Liste Peter Pilz, , JETZT, 2017, 0, NA, 0, NA
-
-Belgum, Christen Democratisch en Vlaams, Christian Democratic and Flemish, CD&V,2007, 1, 21523.000.2007.1.1, 0, 0.05 (note: hcs18 ist für französische Abspaltung der Partei cdh)
-Belgum, Christen Democratisch en Vlaams, Christian Democratic and Flemish, CD&V,2010, 1, 21523.000.2010.1.1, 0, 0.05 (note: hcs18 ist für französische Abspaltung der Partei cdh)
-Belgum, Christen Democratisch en Vlaams, Christian Democratic and Flemish, CD&V,2014, 1, 21523.000.2014.1.1, 0, 0.05 (note: hcs18 ist für französische Abspaltung der Partei cdh)
+Belgum, Christen Democratisch en Vlaams, Christian Democratic and Flemish, CD&V,2007, 1, 21523.000.2007.1.1, 0, 0.05, (note: hcs18 ist für französische Abspaltung der Partei cdh)
+Belgum, Christen Democratisch en Vlaams, Christian Democratic and Flemish, CD&V,2010, 1, 21523.000.2010.1.1, 0, 0.05, (note: hcs18 ist für französische Abspaltung der Partei cdh)
+Belgum, Christen Democratisch en Vlaams, Christian Democratic and Flemish, CD&V,2014, 1, 21523.000.2014.1.1, 0, 0.05, (note: hcs18 ist für französische Abspaltung der Partei cdh)
 Belgum, Centre Démocrate Humaniste, Humanist Democratic Centre, cdh, 2007, 1, 21524.000.2007.1.1, 0, 0.05
 Belgum, Centre Démocrate Humaniste, Humanist Democratic Centre, cdh, 2010, 0, 21524.000.2010.1.1, 0, 0.05
 Belgum, Centre Démocrate Humaniste, Humanist Democratic Centre, cdh, 2014, 1, 21524.000.2014.1.1, 0, 0.05
@@ -34,10 +30,10 @@ Belgum, Socialistische Partij, Socialist Party, PS, 2014, 0, 21321.000.2007.1.1,
 Belgum, Open Vlaamse Liberalen en Democraten, Open Flemish Liberals and Democrats, Open VLD, 2007, 1, 21421.000.2007.1.1, 0, NA
 Belgum, Open Vlaamse Liberalen en Democraten, Open Flemish Liberals and Democrats, Open VLD, 2010, 1, 21421.000.2010.1.1, 0, NA
 Belgum, Open Vlaamse Liberalen en Democraten, Open Flemish Liberals and Democrats, Open VLD, 2014, 1, 21421.000.2014.1.1, 0, NA
-Belgum, Socialistische Partij Anders, Socialist Party Differently, sp-a, 2007, 0,  21221.000.2007.1.1, 0, NA                    polidoc: SPIRIT???? toghtr with sp-a merged with groen 2009
+Belgum, Socialistische Partij Anders, Socialist Party Differently, sp-a, 2007, 0,  21221.000.2007.1.1, 0, NA,                    polidoc: SPIRIT???? toghtr with sp-a merged with groen 2009
 Belgum, Socialistische Partij Anders, Socialist Party Differently, sp-a, 2010, 1, 21221.000.2007.1.1, 0, NA  
 Belgum, Socialistische Partij Anders, Socialist Party Differently, sp-a, 2014, 1, 21221.000.2007.1.1, 0, NA  
-Belgum, Sociaal-Liberale Partij, Social Liberal Party, SPIRIT, 2007, ?, s. sp-a, 0, NA                                          only 2007/ code mistake sp-a!
+Belgum, Sociaal-Liberale Partij, Social Liberal Party, SPIRIT, 2007, ?, s. sp-a, 0, NA,                                 only 2007/ code mistake sp-a!
 Belgum, Écologistes Confédérés pour lOrganisation de Luttes Originales, Confederated ecologists for the organisation of original struggles, Ecolo, 2007, 1, 21111.000.2007.1.1, 0, 0
 Belgum, Écologistes Confédérés pour lOrganisation de Luttes Originales, Confederated ecologists for the organisation of original struggles, Ecolo, 2010, 1, 21111.000.2010.1.1, 0, 0
 Belgum, Écologistes Confédérés pour lOrganisation de Luttes Originales, Confederated ecologists for the organisation of original struggles, Ecolo, 2014, 1, 21111.000.2014.1.1, 0, 0
@@ -46,5 +42,252 @@ Belgum, Groen!,Green!, Groen, 2010, 1, 21112.000.2010.1.1, 0, NA
 Belgum, Groen!,Green!, Groen, 2014, 1, 21112.000.2014.1.1, 0, NA
 Belgum, Parti populaire, People's Party, PP, 2010, 0, ?, 0, 0.55
 Belgum, Parti populaire, People's Party, PP, 2014, 0, ?, 0, 0.55
-Belgum, Démocrate Fédéraliste Indépendant, Democratic Federalist Independent, DéFI/ FDF, 2014, 1, 21912.000.2014.1.1, 0, 0        called polidoc: Front Démocratique des Bruxellois Francophones keine txt.
+Belgum, Démocrate Fédéraliste Indépendant, Democratic Federalist Independent, DéFI/ FDF, 2014, 1, 21912.000.2014.1.1, 0, 0,        called polidoc: Front Démocratique des Bruxellois Francophones keine txt.
 Belgum, Partij van de Arbeid, Workers' Party of Belgium, PVDA, 2014, 0, ?, 0, NA
+Denmark, Socialdemokraterne, Social Democrats, A/S,  2007, 1, 13320.000.2007.1.1, 0, NA
+Denmark, Socialdemokraterne, Social Democrats, A/SD,  2011, 1, 13320.000.2011.1.1, 0, NA
+Denmark, Socialdemokraterne, Social Democrats, A/SD,  2015, 1, 13320.000.2015.1.1, 0, NA
+Denmark, Venstre – Danmarks Liberale Parti,  Left, Denmark's Liberal Party, V, 2007, 1, 13420.000.2007.1.1, 0, NA
+Denmark, Venstre – Danmarks Liberale Parti,  Left, Denmark's Liberal Party, V, 2011, 1, 13420.000.2011.1.1, 0, NA
+Denmark, Venstre – Danmarks Liberale Parti,  Left, Denmark's Liberal Party, V, 2015, 1, 13420.000.2015.1.1, 0, NA
+Denmark, Enhedslisten, Red–Green Alliance, EL, 2007, 1, 13229.000.2007.1.1, 0, NA
+Denmark, Enhedslisten, Red–Green Alliance, EL, 2011, 1, 13229.000.2011.1.1, 0, NA
+Denmark, Enhedslisten, Red–Green Alliance, EL, 2015, 0, 13229.000.2015.1.1, 0, NA
+Denmark, Socialistisk Folkeparti, Socialist People's Party, SF/F, 2007 1, 13230.000.2007.1.1, 0, NA
+Denmark, Socialistisk Folkeparti, Socialist People's Party, SF/F, 2011, 1, 13230.000.2011.1.1, 0, NA
+Denmark, Socialistisk Folkeparti, Socialist People's Party, SF/F, 2015, 1, 13230.000.2015.1.1, 0, NA
+Denmark,  Det Konservative Folkeparti, Conservative People's Party, C, 2007, 1, 13620.000.2007.1.1, 0, NA
+Denmark,  Det Konservative Folkeparti, Conservative People's Party, C, 2011, 1, 13620.000.2011.1.1, 0, NA
+Denmark,  Det Konservative Folkeparti, Conservative People's Party, C, 2015, 1, 13620.000.2015.1.1, 0, NA
+Denmark, Radikale Venstre ,Danish Social Liberal Party, B, 2007, 1, 13410.000.2007.1.1, 0, NA
+Denmark, Radikale Venstre ,Danish Social Liberal Party, B, 2011, 1, 13410.000.2011.1.1, 0, NA
+Denmark, Radikale Venstre ,Danish Social Liberal Party, B, 2015, 1, 13410.000.2015.1.1, 0, NA
+Denmark, Ny Alliance, New Alliance, Y, 2007, 1, 13001.000.2007.1.1, 0, NA
+Denmark, Liberal Alliance, Liberal Alliance, I, 2011, 1, 13001.000.2011.1.1, 0, NA, note: polidoc ny alliance
+Denmark, Liberal Alliance, Liberal Alliance, I, 2015, 1, 13001.000.2015.1.1, 0, NA, note: polidoc ny alliance
+Denmark, Nunatta Qitornai,  the Descendants of Our Country, 2015, 0, ?, ?,NA, note: Greenland separatist party founded 2017
+Denmark, Alternativet, The Alternative, A, 2015, 1, 13120.000.20151.1, 0, NA
+Denmark, Inuit Ataquatigiit, Community of the People, , 0, ?, 0, NA
+Denmark, Tjóðveldi, Republic, E, 2015, 0, ?, 0, NA
+Finnland, Suomen Keskusta, Centre Party, KESK, 2007, 1, 14810.000.2007.1.1, 0, NA
+Finnland, Suomen Keskusta, Centre Party, KESK, 2011, 1, 14810.000.2011.1.1, 0, NA
+Finnland, Suomen Keskusta, Centre Party, KESK, 2015, 1, 14810.000.2015.1.1, 0, NA
+Finnland, Kansallinen Kokoomus, National Coalition Party, Kok, 2007, 1, 14620.000.2007.1.1, 0, NA, note: auf polidoc Kansallinen Koomus (Tippfehler!)
+Finnland, Kansallinen Kokoomus, National Coalition Party, Kok, 2011, 1, 14620.000.2011.1.1, 0, NA, note: auf polidoc Kansallinen Koomus (Tippfehler!)
+Finnland, Kansallinen Kokoomus, National Coalition Party, Kok, 2015, 1, 14620.000.2015.1.1, 0, NA, note: auf polidoc Kansallinen Koomus (Tippfehler!)
+Finnland, Suomen sosialidemokraattinen puolue, Social Democratic Party of Finland, SDP, 2007, 1, 14320.000.2007.1.1, 0, NA 
+Finnland, Suomen sosialidemokraattinen puolue, Social Democratic Party of Finland, SDP, 2011, 1, 14320.000.2011.1.1, 0, NA
+Finnland, Suomen sosialidemokraattinen puolue, Social Democratic Party of Finland, SDP, 2015, 1, 14320.000.2015.1.1, 0, NA
+Finnland, Vasemmistoliitto, Left Alliance, VAS, 2007, 0,  14223.000.2007.1.1, 0, NA
+Finnland, Vasemmistoliitto, Left Alliance, VAS, 2011, 1,  14223.000.2011.1.1, 0, NA
+Finnland, Vasemmistoliitto, Left Alliance, VAS, 2007, 1,  14223.000.2007.1.1/.2, 0, NA, note: original and english version
+Finnland, Vihreä liitto, Green League, VIHR, 2007, 0, 14110.000.2007.1.1, 0, NA
+Finnland, Vihreä liitto, Green League, VIHR, 2011, 0, 14110.000.2011.1.1, 0, NA
+Finnland, Vihreä liitto, Green League, VIHR, 2015, 1, 14110.000.2015.1.1, 0, NA
+Finnland, Kristillisdemokraatit, Christian Democrats, KD, 2007, 0, , 0, NA
+Finnland, Kristillisdemokraatit, Christian Democrats, KD, 2011, 0, , 0, NA
+Finnland, Kristillisdemokraatit, Christian Democrats, KD, 2015, 0, , 0, NA
+Finnland, Svenska folkpartiet i Finland, Swedish People's Party of Finland, SFP, 2007, 0, , 0, NA
+Finnland, Svenska folkpartiet i Finland, Swedish People's Party of Finland, SFP, 2011, 0, , 0, NA
+Finnland, Svenska folkpartiet i Finland, Swedish People's Party of Finland, SFP, 2015, 0, , 0, NA
+France,  Mouvement démocrate, Democratic Movement, MoDem, 2012, 0, , 0, 0, note: founded 2007 by party UDF
+France,  Mouvement démocrate, Democratic Movement, MoDem, 2017, 0, , 0, 0, note: founded 2007 by party UDF
+France, Union des démocrates et indépendants, Union of Democrats and Indepenents, UDI, 2017, 0, , 0, NA
+France, Union pour un mouvement populaire, Union for a Popular Movement, UMP 2007, 1, 31626.000.2007.1.1, 0, 0
+France, Union pour un mouvement populaire, Union for a Popular Movement, UMP, 2012, 1, 31626.000.2012.1.1, 0, 0
+France, Les Républicains, The Republicans, LR, 2017, 1, 31627.000.2017.1.1, 0, NA(0), note: former UMP
+France, Parti communiste français, French Communist Party, PCF, 2007, 0, , 0, NA
+France, Parti communiste français, French Communist Party, PCF, 2017, 0, , 0, NA
+France, Parti socialiste, Socialist Party, PS, 2007, 1, 31320.000.2007.1.1, 0, 0.1
+France, Parti socialiste, Socialist Party, PS, 2012, 1, 31320.000.2012.1.1, 0, 0.1
+France, Parti socialiste, Socialist Party, PS, 2017, 1, 31320.000.2017.1.1, 0, 0.1
+France, La République en Marche, The Republic on the move!, LaREM, 2017, 1, 31430.000.2017.1.1, 0, NA
+France, Parti radical de gauche, Radical Party of the Left, PRG, 2007, 0, , 0, NA
+France, Parti radical de gauche, Radical Party of the Left, PRG, 2012, 0, , 0, NA
+France, Parti radical de gauche, Radical Party of the Left, PRG, 2017, 0, , 0, NA
+France, Front de gauche, Left Front, FDG, 2012, 0, , 0, NA
+France, Les Verts, The Greens, VEC, 2007, 1, 31110.000.2007.1.1, 0, 0.15
+France, Les Verts, The Greens, VEC, 2012, 1, 31110.000.2012.1.1, 0, 0.15, note: dissolved 2010 - which party is this?
+France, Union pour la démocratie française, Union for French Democracy, UDF, 2007, 1, 31624.000.2007.1.1, 0, NA, note: dissolved 2007
+France, Les Centristes, New Centre, LC, 2007, 0, ,0, NA
+France, Les Centristes, New Centre, LC, 2012, 0, ,0, NA
+France, Mouvement pour la France, Movement for France, MPF, 2007, 0, , 0, NA
+France, Europe Écologie-Les Verts, Europe Ecology – The Greens, EELV, 2012, 0, , 0, NA
+France, Europe Écologie-Les Verts, Europe Ecology – The Greens, EELV, 2017, 0, , 0, NA
+France, Parti radical valoisien, Radical Party, PRV, 2012, 0, , 0, NA
+France, Debout la France, France Arise, DLF, 2017, 0, , 0, NA
+Germany, Bündnis 90/Die Grünen, Alliance 90/The Greens, Grüne, 2009, 1, 41113.000.2009.1.1, 0, 0.2
+Germany, Bündnis 90/Die Grünen, Alliance 90/The Greens, Grüne, 2013, 1, 41113.000.2013.1.1, 0, 0.2
+Germany, Bündnis 90/Die Grünen, Alliance 90/The Greens, Grüne, 2017, 1, 41113.000.2017.1.1, 0, 0.2
+Germany, Christlich Demokratische Union, Christian Democratic Union, CDU, 2009, 1, 41521.000.2009.1.1 , 0, 0  
+Germany, Christlich Demokratische Union, Christian Democratic Union, CDU, 2013, 1, 41521.000.2013.1.1 , 0, 0  
+Germany, Christlich Demokratische Union, Christian Democratic Union, CDU, 2017, 1, 41521.000.2017.1.1 , 0, 0  
+Germany, Freie Demokratische Partei, Free Democratic Party, FDP, 2009, 1, 41420.000.2009.1.1, 0, 0
+Germany, Freie Demokratische Partei, Free Democratic Party, FDP, 2013, 1, 41420.000.2013.1.1, 0, 0
+Germany, Freie Demokratische Partei, Free Democratic Party, FDP, 2017, 1, 41420.000.2017.1.1, 0, 0
+Germany, Sozialdemokratische Partei Deutschlands, Social Democratic Party, SPD, 2009, 1, 41320.000.2009.1.1, 0, 0
+Germany, Sozialdemokratische Partei Deutschlands, Social Democratic Party, SPD, 2013, 1, 41320.000.2013.1.1, 0, 0
+Germany, Sozialdemokratische Partei Deutschlands, Social Democratic Party, SPD, 2017, 1, 41320.000.2017.1.1, 0, 0
+Germany, Christlich-Soziale Union in Bayern, Christian Social Union in Bavaria, CSU, 2009, see CDU, see CDU, 0, 0
+Germany, Christlich-Soziale Union in Bayern, Christian Social Union in Bavaria, CSU, 2013, see CDU, see CDU, 0, 0
+Germany, Christlich-Soziale Union in Bayern, Christian Social Union in Bavaria, CSU, 2017, see CDU, see CDU, 0, 0
+Germany, Piratenpartei Deutschland, Pirate Party Germany, Piraten, 2009, 1, 41950.000.2009.1.1, 0, NA
+Germany, Piratenpartei Deutschland, Pirate Party Germany, Piraten, 2013, 1, 41950.000.2013.1.1, 0, NA
+Ireland, Comhaontas Glas, Green Party Ireland, GPNI, 2007, 1, 53110.000.2007.1.1, 0, NA
+Ireland, Comhaontas Glas, Green Party Ireland, GPNI, 2016, 1, 53110.000.2016.1.1, 0, NA
+Ireland, Fine Gael, Tribe of the Irish, FG, 2007, 1, 53520.000.2007.1.1, 0, 0.25
+Ireland, Fine Gael, Tribe of the Irish, FG, 2011, 1, 53520.000.2011.1.1, 0, 0.25
+Ireland, Fine Gael, Tribe of the Irish, FG, 2016, 1, 53520.000.2016.1.1, 0, 0.25
+Ireland, Fianna Fáil, Fianna Fáil – The Republican Party, FF, 2007, 1, 53620.000.2007.1.1, 0, 0.025
+Ireland, Fianna Fáil, Fianna Fáil – The Republican Party, FF, 2011, 1, 53620.000.2011.1.1, 0, 0.025
+Ireland, Fianna Fáil, Fianna Fáil – The Republican Party, FF, 2016, 1, 53620.000.2016.1.1, 0, 0.025
+Ireland, Páirtí an Lucht Oibre, Labour, Labour, 2007, 1, 53320.000.2007.1.1, 0, 0.3
+Ireland, Páirtí an Lucht Oibre, Labour, Labour, 2011, 1, 53320.000.2011.1.1, 0, 0.3
+Ireland, Páirtí an Lucht Oibre, Labour, Labour, 2016, 1, 53320.000.2016.1.1, 0, 0.3
+Ireland, An Páirtí Daonlathach, Progressive Democrats, PD, 2007, 1, 53420.000.2007.1.1, 0, NA
+Ireland, Dáil grouping, Anti-Austerity Alliance–People Before Profit, AAA-PBP, 1, 53205.000.2016.1.1, 0, NA
+Ireland, Daonlathaigh Shóisialta, Social Democrats, , 2016, 1, 53321.000.2016.1.1, 0, NA
+Ireland, Renua Ireland, Renua Ireland, , 2016, 1, 53621.000.2016.1.1, 0, NA
+Italy, Popolo della Libertà, The People of Freedom, PdL, 2008, 1, 32993.000.2008.1.1, 0, 0
+Italy, Popolo della Libertà, The People of Freedom, PdL, 2013, 1, 32993.000.2013.1.1, 0, 0
+Italy, Partito Democratico, Democratic Party, PD, 2008, 1, 32340.000.2008.1.1, 0, 0.6
+Italy, Partito Democratico, Democratic Party, PD, 2013, 1, 32340.000.2013.1.1, 0, 0.6
+Italy, Partito Democratico, Democratic Party, PD, 2018, 1, 32340.000.2018.1.1, 0, 0.6
+Italy, Unione di Centro, Union of the Centre, UdC, 2008, 1, 32530.000.2008.1.1, 0, NA
+Italy, Italia dei Valori, Italy of Values, IdV, 2008, 1, 32404.000.2008.1.1, 0, NA
+Italy, La Sinistra – L'Arcobaleno, The Left – The Rainbow, SA, 2008. 0, , 0, NA
+Italy, La Destra–Fiamma Tricolore, The Right–Tricolour Flame, Destra, 2008, 1, 32902.000.2008.1.1, 0, NA
+Italy, Sinistra Ecologia Libertà, Left Ecology Freedom, SEL, 2013, 0, , 0, 0.1
+Italy, Scelta Civica, Civic Choice, SC, 2013, 1, 32430.000.2013.1.1, 0, 0
+Italy, Rivoluzione Civile, Civil Revolution, RC, 2013, 0, , 0, 0.4
+Italy, Forza Italia, Forward Italy, FI, 2016, 1, 32610.000.2018.1.1, 0, NA
+Italy, Liberi e Uguali, Free and Equal, LeU, 2018, 1, 32350.000.2018.1.1, 0, NA
+Italy, Più Europa, More Europe, E+, 2018, 1, 32440.000.2018.1.1, 0, NA
+Netherlands, Volkspartij voor Vrijheid en Democratie, People's Party for Freedom and Democracy, VVD, 2010, 1, 22420.000.2012.1.1, 0, 0
+Netherlands, Volkspartij voor Vrijheid en Democratie, People's Party for Freedom and Democracy, VVD, 2012, 1, 22420.000.2012.1.1, 0, 0
+Netherlands, Volkspartij voor Vrijheid en Democratie, People's Party for Freedom and Democracy, VVD, 2017, 1, 22420.000.2012.1.1, 0, 0
+Netherlands, Partij van de Arbeid, Labour Party, PvdA, 2010, 1, 22320.000.2010.1.1, 0, 0
+Netherlands, Partij van de Arbeid, Labour Party, PvdA, 2012, 1, 22320.000.2012.1.1, 0, 0
+Netherlands, Partij van de Arbeid, Labour Party, PvdA, 2017, 1, 22320.000.2017.1.1, 0, 0
+Netherlands, Christen-Democratisch Appèl, Christian Democratic Appeal, CDA, 2010, 1, 22521.000.2010.1.1, 0, 0.05
+Netherlands, Christen-Democratisch Appèl, Christian Democratic Appeal, CDA, 2012, 1, 22521.000.2012.1.1, 0, 0.05
+Netherlands, Christen-Democratisch Appèl, Christian Democratic Appeal, CDA, 2017, 1, 22521.000.2017.1.1, 0, 0.05
+Netherlands, Democraten 66, Democrats 66, D66, 2010, 0, 22330.000.2010.1.1, 0, 0
+Netherlands, Democraten 66, Democrats 66, D66, 2012, 1, 22330.000.2012.1.1, 0, 0
+Netherlands, Democraten 66, Democrats 66, D66, 2017, 1, 22330.000.2017.1.1, 0, 0
+Netherlands, GroenLinks, GreenLeft, GL, 2010, 1, 22110.000.2010.1.1, 0, NA
+Netherlands, GroenLinks, GreenLeft, GL, 2012, 1, 22110.000.2012.1.1, 0, NA
+Netherlands, GroenLinks, GreenLeft, GL, 2017, 1, 22110.000.2017.1.1, 0, NA
+Netherlands, ChristenUnie, Christian Union, CU, 2010, 0, 22526.000.2010 , 0, NA
+Netherlands, ChristenUnie, Christian Union, CU, 2012, 1, 22526.000.2012 , 0, NA
+Netherlands, ChristenUnie, Christian Union, CU, 2017, 1, 22526.000.2017 , 0, NA
+Netherlands, Staatkundig Gereformeerde Partij, Reformed Political Party, SGP, 2012, 1, 22502.000.2012.1.1, 0, NA
+Netherlands, Staatkundig Gereformeerde Partij, Reformed Political Party, SGP, 2017, 1, 22502.000.2017.1.1, 0, NA
+Netherlands, Partij voor de Dieren, Party for the Animals, PvdD, 2017, 1, 22952.000.2017.1.1, 0, NA
+Netherlands, 50PLUS, 50PLUS, 50+, 2017, 1, 22906.000.2017.1.1, 0, NA
+Netherlands, Denk, Denk, DENK, 2017, 1, 22909.000.2017.1.1, 0, NA
+Norway, Det norske Arbeiderparti, Norwegian Labour Party, A, 2009, 1, 12320.000.2009.1.1, 0, 0
+Norway, Det norske Arbeiderparti, Norwegian Labour Party, A, 2013, 1, 12320.000.2013.1.1, 0, 0
+Norway, Det norske Arbeiderparti, Norwegian Labour Party, A, 2017, 1, 12320.000.2017.1.1, 0, 0
+Norway, Høyre, Conservative Party, H, 2009, 1, 12620.000.2009.1.1, 0, 0
+Norway, Høyre, Conservative Party, H, 2013,  1, 12620.000.2013.1.1, 0, 0
+Norway, Høyre, Conservative Party, H, 2017,  1, 12620.000.2017.1.1, 0, 0
+Norway, Sosialistisk Venstreparti, Socialist Left Party, SV, 2009, 0, 12221.000.2009.1.1, 0, NA
+Norway, Sosialistisk Venstreparti, Socialist Left Party, SV, 2013, 1, 12221.000.2013.1.1, 0, NA
+Norway, Sosialistisk Venstreparti, Socialist Left Party, SV, 2017, 1, 12221.000.2017.1.1, 0, NA
+Norway, Senterpartiet, Centre Party, Sp, 2009, 1, 12810.000.2009.1.1, 0,NA
+Norway, Senterpartiet, Centre Party, Sp, 2013, 1, 12810.000.2013.1.1, 0, NA
+Norway, Senterpartiet, Centre Party, Sp, 2017, 1, 12810.000.2017.1.1, 0, NA
+Norway, Kristelig Folkeparti, Christian Democratic Party, KrF, 2009, NA
+Norway, Kristelig Folkeparti, Christian Democratic Party, KrF, 2013,NA
+Norway, Kristelig Folkeparti, Christian Democratic Party, KrF, 2017, NA
+Norway, Venstre, Liberal Party, V, 2009, 1, 12520.000.2009.1.1, 0, NA
+Norway, Venstre, Liberal Party, V, 2013, 1, 12520.000.2013.1.1, 0, NA
+Norway, Venstre, Liberal Party, V, 2017, 1, 12520.000.2017.1.1, 0, NA
+Norway, Miljøpartiet De Grønne, Green Party, MDG, 2013, 1, 12110.000.2013.1.1, 0, NA
+Norway, Miljøpartiet De Grønne, Green Party, MDG, 2017, 0, 12110.000.2017.1.1, 0, NA
+Norway, Rødt, Red Party, R, 2017, 0, , 0, NA
+Spain, Partido Popular, People's Party, PP, 2015, 1, 33410.000.2015.1.1, 0, 0.4 
+Spain, Partido Popular, People's Party, PP, 2016, 1, 33410.000.2016.1.1, 0, 0.4 
+Spain, Partido Popular, People's Party, PP, 2019, 0, 33410.000.2019.1.1, 0, 0.4 
+Spain, Partido Socialista Obrero Español, Spanish Socialist Workers' Party, PSOE, 2015, 1, 33320.000.2015.1.1, 0, 0
+Spain, Partido Socialista Obrero Español, Spanish Socialist Workers' Party, PSOE, 2016, 1, 33320.000.2016.1.1, 0, 0
+Spain, Partido Socialista Obrero Español, Spanish Socialist Workers' Party, PSOE, 2019, 0, 33320.000.2019.1.1, 0, 0
+Spain, Eusko Alderdi Jeltzalea-Partido Nacionalista Vasco, Basque Nationalist Party, EAJ/PNV, 2015, 1, 33902.000.2015.1.1, 0, NA
+Spain, Eusko Alderdi Jeltzalea-Partido Nacionalista Vasco, Basque Nationalist Party, EAJ/PNV, 2016, 1, 33902.000.2016.1.1, 0, NA
+Spain, Eusko Alderdi Jeltzalea-Partido Nacionalista Vasco, Basque Nationalist Party, EAJ/PNV, 2019,0, 33902.000.2019.1.1, 0, NA
+Spain, Ciudadanos, Citizens, Cs, 2015, 1, 33976.000.2015.1.1, 0, NA
+Spain, Ciudadanos, Citizens, Cs, 2016, 0, 33976.000.2016.1.1, 0, NA
+Spain, Ciudadanos, Citizens, Cs, 2019, 0, 33976.000.2019.1.1, 0, NA
+Spain, Esquerra Republicana de Catalunya, Republican Left of Catalonia, ERC, 2015, 1, 33905.000.2015.1.1, 0, NA
+Spain, Esquerra Republicana de Catalunya, Republican Left of Catalonia, ERC, 2016, 1, 33905.000.2016.1.1, 0, NA
+Spain, Esquerra Republicana de Catalunya, Republican Left of Catalonia, ERC, 2019, 0, 33905.000.2019.1.1, 0, NA
+Spain, Euskal Herria Bildu, Basque Country Unite, EH Bildu, 2015, 0, 33095.000.2015.1.1, 0, NA
+Spain, Euskal Herria Bildu, Basque Country Unite, EH Bildu, 2016, 1, 33095.000.2016.1.1, 0, NA
+Spain, Euskal Herria Bildu, Basque Country Unite, EH Bildu, 2019, 0, 33095.000.2019.1.1, 0, NA
+Spain, Coalición Canaria, Canarian Coalition, CC, 2015, 1, 33907.000.2015.1.1, 0, NA
+Spain, Coalición Canaria, Canarian Coalition, CC, 2016, 1, 33907.000.2016.1.1, 0, NA
+Spain, Coalición Canaria, Canarian Coalition, CC, 2019, 0, 33907.000.2019.1.1, 0, NA
+Spain, Democràcia i Llibertat, Democracy and Freedom, DiL, 2015, 1, 33099.000.2015.1.1, 0, NA
+Spain, Izquierda Unida, United Left, IU, 2015, 1, 33220.000.2015.1.1, 0, 1
+Spain, Convergència Democràtica de Catalunya, Democratic Convergence of Catalonia, CDC, 2016, 0, , 0, NA
+Spain, Vox, Vox, VOX, 2019, 0, , 0, NA
+Spain, Compromís, Compromise Coalition, Compromís, 2019, 0, , 0, NA
+Spain, Partido Regionalista de Cantabria, Regionalist Party of Cantabria, PRC, 2019, 0, , 0, NA
+Spain, Junts per Catalunya, Junts per Catalunya, JuntsxCat,  2019, 0, , 0, NA
+Spain, Navarra Suma, Sum Navarre, NA+, 2019, 0, , 0, NA
+Switzerland, Christlich demokratische Volkspartei der Schweiz, Christian Democratic People's Party of Switzerland, CVP, 2007, 1, 43520.000.2007.1.1, 0, 0.1
+Switzerland, Christlich demokratische Volkspartei der Schweiz, Christian Democratic People's Party of Switzerland, CVP, 2011, 1, 43520.000.2011.1.1, 0, 0.1
+Switzerland, Christlich demokratische Volkspartei der Schweiz, Christian Democratic People's Party of Switzerland, CVP, 2015, 1, 43520.000.2015.1.1, 0, 0.1
+Switzerland, Freisinnig-Demokratische Partei, The Liberals, FDP, 2007, 1, 43420.000.2007.1.1, 0, 0.1
+Switzerland, Freisinnig-Demokratische Partei, The Liberals, FDP, 2011, 1, 43420.000.2011.1.1, 0, 0.1
+Switzerland, Freisinnig-Demokratische Partei, The Liberals, FDP, 2015, 1, 43420.000.2015.1.1, 0, 0.1
+Switzerland, Sozialdemokratische Partei der Schweiz, Social Democratic Party of Switzerland , SP, 2007, 1, 43320.000.2007.1.1, 0, 0.3
+Switzerland, Sozialdemokratische Partei der Schweiz, Social Democratic Party of Switzerland , SP, 2011, 1, 43320.000.2011.1.1, 0, 0.3
+Switzerland, Sozialdemokratische Partei der Schweiz, Social Democratic Party of Switzerland , SP, 2015, 1, 43320.000.2015.1.1, 0, 0.3
+Switzerland, Grüne Schweiz, The Greens Switzerland, GPS, 2007, 1, 43110.000.2007.1.1, 0, 0
+Switzerland, Grüne Schweiz, The Greens Switzerland, GPS, 2011, 1, 43110.000.2011.1.1, 0, 0
+Switzerland, Grüne Schweiz, The Greens Switzerland, GPS, 2015, 1, 43110.000.2015.1.1, 0, 0
+Switzerland, Grünliberale Schweiz, Green Liberal Party of Switzerland, glp, 2007, 0, 43120.000.2007.1.1, 0, NA
+Switzerland, Grünliberale Schweiz, Green Liberal Party of Switzerland, glp, 2011, 0, 43120.000.2011.1.1, 0, NA
+Switzerland, Grünliberale Schweiz, Green Liberal Party of Switzerland, glp, 2015, 1, 43120.000.2015.1.1, 0, NA
+Switzerland, Bürgerlich-Demokratische Partei Schweiz, Conservative Democratic Party of Switzerland, BDP, 2011, 1, 43811.000.2011.1.1, 0, 0.05
+Switzerland, Bürgerlich-Demokratische Partei Schweiz, Conservative Democratic Party of Switzerland, BDP, 2015, 0, 43811.000.2015.1.1, 0, 0.05
+Switzerland, Evangelische Volkspartei der Schweiz, Evangelical People's Party of Switzerland, EVP, 2007, 1, 43530.000.2007.1.1, 0, NA
+Switzerland, Evangelische Volkspartei der Schweiz, Evangelical People's Party of Switzerland, EVP, 2011, 1, 43530.000.2011.1.1, 0, NA
+Switzerland, Evangelische Volkspartei der Schweiz, Evangelical People's Party of Switzerland, EVP, 2015, 1, 43530.000.2015.1.1, 0, NA
+Switzerland, Mouvement citoyens genevois, Geneva Citizens' Movement, MCG, 2011, 0, , 0, NA
+Switzerland, Mouvement citoyens genevois, Geneva Citizens' Movement, MCG, 2015, 0, , 0, NA
+Switzerland, Lega dei Ticinesi, Ticino League, Lega, 2007, 0, , 0, NA
+Switzerland, Lega dei Ticinesi, Ticino League, Lega, 2011, 0, , 0, NA
+Switzerland, Lega dei Ticinesi, Ticino League, Lega, 2015, 0, , 0, NA
+Switzerland, Partei der Arbeit der Schweiz, Swiss Party of Labour, PdA, 2007, 0, 43220.000.2007.1.1, NA
+Switzerland, Partei der Arbeit der Schweiz, Swiss Party of Labour, PdA, 2015, 1, 43220.000.2015.1.1, NA
+Switzerland, Liberale Partei der Schweiz, Liberal Party of Switzerland, LPS, 2007, 1, 43531.000.2007.1.1, 0, NA
+Switzerland, Christlich-soziale Partei, Christian Social Party, CSP, 2007, 0, , 0, NA
+Switzerland, Eidgenössisch-Demokratische Union, Federal Democratic Union of Switzerland, EDU+UDF, 2007, 0, 43711.000.2007.1.1, 0,  NA
+United Kingdom, Conservatives, 	Conservatives, C, 2010, 1, 51620.000.2010.1.1, 0, 0.05
+United Kingdom, Conservatives, 	Conservatives, C, 2015, 1, 51620.000.2015.1.1, 0, 0.05
+United Kingdom, Conservatives, 	Conservatives, C, 2017, 1, 51620.000.2017.1.1, 0, 0.05
+United Kingdom, Labour, Labour, Labour, 2010, 1, 51320.000.2010.1.1, 0, 0.25
+United Kingdom, Labour, Labour, Labour, 2015, 1, 51320.000.2015.1.1, 0, 0.25
+United Kingdom, Labour, Labour, Labour, 2017, 1, 51320.000.2017.1.1, 0, 0.25
+United Kingdom, Liberal Democrats, Liberal Democrats, LipDem, 2010, 1, 51421.000.2010.1.1, 0, 0
+United Kingdom, Liberal Democrats, Liberal Democrats, LipDem, 2015, 1, 51421.000.2015.1.1, 0, 0
+United Kingdom, Liberal Democrats, Liberal Democrats, LipDem, 2017, 1, 51421.000.2017.1.1, 0, 0
+United Kingdom,Scottish National Party, Scottish National Party, SNP, 2010,1, 51902.000.2010.1.1, 0, NA
+United Kingdom,Scottish National Party, Scottish National Party, SNP, 2015,1, 51902.000.2015.1.1, 0, NA
+United Kingdom,Scottish National Party, Scottish National Party, SNP, 2017,1, 51902.000.2017.1.1, 0, NA
+United Kingdom, Democratic Unionist Party, Democratic Unionist Party, DUP, 2010, 1, 51903.000.2010.1.1, 0, NA 
+United Kingdom, Democratic Unionist Party, Democratic Unionist Party, DUP, 2015, 1, 51903.000.2015.1.1, 0, NA 
+United Kingdom, Democratic Unionist Party, Democratic Unionist Party, DUP, 2017, 0, 51903.000.2017.1.1, 0, NA 
+United Kingdom, Plaid Cymru, The Party of Wales, PC, 2010, 1, 51301.000.2010.1.1, 0, NA
+United Kingdom, Plaid Cymru, The Party of Wales, PC, 2015, 0, 51301.000.2015.1.1, 0, NA
+United Kingdom, Plaid Cymru, The Party of Wales, PC, 2017, 0, 51301.000.2017.1.1, 0, NA
+United Kingdom, Green Party of England and Wales,  Green Party of England and Wales, GPWE, 2010, 1, 51101.000.2010.1.1, 0, NA
+United Kingdom, Green Party of England and Wales,  Green Party of England and Wales, GPWE, 2015, 1, 51101.000.2015.1.1, 0, NA
+United Kingdom, Green Party of England and Wales,  Green Party of England and Wales, GPWE, 2017, 1, 51101.000.2017.1.1, 0, NA
+United Kingdom, Ulster Unionist Party, Ulster Unionist Party, UUP, 2015, 0, , 0, NA
+United Kingdom, Social Democratic and Labour Party, Social Democratic and Labour Party, SDLP, 2010, 1, 51330.000.2010.1.1, 0, NA
+United Kingdom, Social Democratic and Labour Party, Social Democratic and Labour Party, SDLP, 2015, 0, 51330.000.2015.1.1, 0, NA
+United Kingdom, Alliance Party of Northern Ireland, Alliance Party of Northern Ireland, Alliance, 2010, 1, 51401.000.2010.1.1, 0, NA
