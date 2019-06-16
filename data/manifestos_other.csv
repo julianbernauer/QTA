@@ -87,17 +87,17 @@ Finnland, Vihreä liitto, Green League, VIHR, 2015, 1, 14110.000.2015.1.1, 0, NA
 Finnland, Kristillisdemokraatit, Christian Democrats, KD, 2007, 0, , 0, NA
 Finnland, Kristillisdemokraatit, Christian Democrats, KD, 2011, 0, , 0, NA
 Finnland, Kristillisdemokraatit, Christian Democrats, KD, 2015, 0, , 0, NA
-Finnland, Svenska folkpartiet i Finland, Swedish People's Party of Finland, SFP, 2007, 0, , 0, NA
-Finnland, Svenska folkpartiet i Finland, Swedish People's Party of Finland, SFP, 2011, 0, , 0, NA
-Finnland, Svenska folkpartiet i Finland, Swedish People's Party of Finland, SFP, 2015, 0, , 0, NA
+Finnland, Svenska folkpartiet i Finland, Swedish People's Party of Finland, SFP, 2007, 1, 14901.000.2007.1.1, 0, NA
+Finnland, Svenska folkpartiet i Finland, Swedish People's Party of Finland, SFP, 2011, 1, 14901.000.2011.1.1, 0, NA
+Finnland, Svenska folkpartiet i Finland, Swedish People's Party of Finland, SFP, 2015, 1, 14901.000.2015.1.1, 0, NA
 France,  Mouvement démocrate, Democratic Movement, MoDem, 2012, 0, , 0, 0, note: founded 2007 by party UDF
 France,  Mouvement démocrate, Democratic Movement, MoDem, 2017, 0, , 0, 0, note: founded 2007 by party UDF
 France, Union des démocrates et indépendants, Union of Democrats and Indepenents, UDI, 2017, 0, , 0, NA
 France, Union pour un mouvement populaire, Union for a Popular Movement, UMP 2007, 1, 31626.000.2007.1.1, 0, 0
 France, Union pour un mouvement populaire, Union for a Popular Movement, UMP, 2012, 1, 31626.000.2012.1.1, 0, 0
 France, Les Républicains, The Republicans, LR, 2017, 1, 31627.000.2017.1.1, 0, NA(0), note: former UMP
-France, Parti communiste français, French Communist Party, PCF, 2007, 0, , 0, NA
-France, Parti communiste français, French Communist Party, PCF, 2017, 0, , 0, NA
+France, Parti communiste français, French Communist Party, PCF, 2007, 1, 31220.000.2006.1.1, 0, NA
+France, Parti communiste français, French Communist Party, PCF, 2017, 0, 31220.000.2017.1.1 , 0, NA
 France, Parti socialiste, Socialist Party, PS, 2007, 1, 31320.000.2007.1.1, 0, 0.1
 France, Parti socialiste, Socialist Party, PS, 2012, 1, 31320.000.2012.1.1, 0, 0.1
 France, Parti socialiste, Socialist Party, PS, 2017, 1, 31320.000.2017.1.1, 0, 0.1
@@ -198,9 +198,9 @@ Norway, Sosialistisk Venstreparti, Socialist Left Party, SV, 2017, 1, 12221.000.
 Norway, Senterpartiet, Centre Party, Sp, 2009, 1, 12810.000.2009.1.1, 0,NA
 Norway, Senterpartiet, Centre Party, Sp, 2013, 1, 12810.000.2013.1.1, 0, NA
 Norway, Senterpartiet, Centre Party, Sp, 2017, 1, 12810.000.2017.1.1, 0, NA
-Norway, Kristelig Folkeparti, Christian Democratic Party, KrF, 2009, NA
-Norway, Kristelig Folkeparti, Christian Democratic Party, KrF, 2013,NA
-Norway, Kristelig Folkeparti, Christian Democratic Party, KrF, 2017, NA
+Norway, Kristelig Folkeparti, Christian Democratic Party, KrF, 2009, 1, 12520.000.2009.1.1, 0, NA
+Norway, Kristelig Folkeparti, Christian Democratic Party, KrF, 1, 12520.000.2013.1.1 2013,0, NA
+Norway, Kristelig Folkeparti, Christian Democratic Party, KrF, 1, 12520.000.2009.1.1, 2017, 0, NA
 Norway, Venstre, Liberal Party, V, 2009, 1, 12520.000.2009.1.1, 0, NA
 Norway, Venstre, Liberal Party, V, 2013, 1, 12520.000.2013.1.1, 0, NA
 Norway, Venstre, Liberal Party, V, 2017, 1, 12520.000.2017.1.1, 0, NA
@@ -258,7 +258,7 @@ Switzerland, Evangelische Volkspartei der Schweiz, Evangelical People's Party of
 Switzerland, Evangelische Volkspartei der Schweiz, Evangelical People's Party of Switzerland, EVP, 2015, 1, 43530.000.2015.1.1, 0, NA
 Switzerland, Mouvement citoyens genevois, Geneva Citizens' Movement, MCG, 2011, 0, , 0, NA
 Switzerland, Mouvement citoyens genevois, Geneva Citizens' Movement, MCG, 2015, 0, , 0, NA
-Switzerland, Lega dei Ticinesi, Ticino League, Lega, 2007, 0, , 0, NA
+Switzerland, Lega dei Ticinesi, Ticino League, Lega, 2007, 1, 43953.000.2007.1.1, 0, NA
 Switzerland, Lega dei Ticinesi, Ticino League, Lega, 2011, 0, , 0, NA
 Switzerland, Lega dei Ticinesi, Ticino League, Lega, 2015, 0, , 0, NA
 Switzerland, Partei der Arbeit der Schweiz, Swiss Party of Labour, PdA, 2007, 0, 43220.000.2007.1.1, NA
@@ -287,7 +287,7 @@ United Kingdom, Plaid Cymru, The Party of Wales, PC, 2017, 0, 51301.000.2017.1.1
 United Kingdom, Green Party of England and Wales,  Green Party of England and Wales, GPWE, 2010, 1, 51101.000.2010.1.1, 0, NA
 United Kingdom, Green Party of England and Wales,  Green Party of England and Wales, GPWE, 2015, 1, 51101.000.2015.1.1, 0, NA
 United Kingdom, Green Party of England and Wales,  Green Party of England and Wales, GPWE, 2017, 1, 51101.000.2017.1.1, 0, NA
-United Kingdom, Ulster Unionist Party, Ulster Unionist Party, UUP, 2015, 0, , 0, NA
+United Kingdom, Ulster Unionist Party, Ulster Unionist Party, UUP, 2015, 1, 51621.000.2015.1.1, 0, NA
 United Kingdom, Social Democratic and Labour Party, Social Democratic and Labour Party, SDLP, 2010, 1, 51330.000.2010.1.1, 0, NA
 United Kingdom, Social Democratic and Labour Party, Social Democratic and Labour Party, SDLP, 2015, 0, 51330.000.2015.1.1, 0, NA
 United Kingdom, Alliance Party of Northern Ireland, Alliance Party of Northern Ireland, Alliance, 2010, 1, 51401.000.2010.1.1, 0, NA
